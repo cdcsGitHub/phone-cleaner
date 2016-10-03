@@ -1,0 +1,6 @@
+Account Number;Branch Number;First Name;Last Name;Address;Address2;City;State;Zip;Tax Id Number;Home Phone;Business Phone;Business Phone Ext;Birthday;BusPhone;Account Type;Date Opened;Phone-Alt
+123123;"1 ";Jane;Smith;112 North Main;;York;PA;17402;112331234;"		(717)-833-3393  ";"848-777-8020";ext172;2/2/1955;800.212.3390;A;1/1/2003;x9928
+123123;"0 ";Jane;Smith;"111 Johnstown Rd;;";;;;;504405022;"		(717)-833-3393  ";"800-44-2-4545";x 0884;3/14/1947;-33304;77eA;12/3/1929;
+123123;"2355211 ";Jane;Smith;2 East Main;Apt 334;York;PA;17402;111223333;"717)-833-3393  ";"949-963-4487";;1/1/2003;Johnstown;A;2/2/1955;**@
+123123;"314 ";Jane;Smith;3494 South Main;;York;PA;17402;121212121;"(717)-833-		3393*;;0()";"+01.717.833.1010";;12/3/1929;California;'0F';3/14/1947;
+123123;"-200391 ";Jane;Smith;476 West Main;;York;PA;17402;999999999;"/717/833//7393  ";;ext172;2/2/1955;"ee144;1";A993;1/1/2003;===----

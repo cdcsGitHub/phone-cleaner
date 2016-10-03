@@ -1,0 +1,27 @@
+C:\Users\Clay\Desktop\TrainingExercise1\TrainingExercise1\bin\Debug\TrainingExercise1.exe
+C:\Users\Clay\Desktop\TrainingExercise1\TrainingExercise1\bin\Debug\TrainingExercise1.pdb
+C:\Users\Clay\Desktop\TrainingExercise1\TrainingExercise1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Clay\Desktop\TrainingExercise1\TrainingExercise1\obj\x86\Debug\TrainingExercise1.Form1.resources
+C:\Users\Clay\Desktop\TrainingExercise1\TrainingExercise1\obj\x86\Debug\TrainingExercise1.Properties.Resources.resources
+C:\Users\Clay\Desktop\TrainingExercise1\TrainingExercise1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Clay\Desktop\TrainingExercise1\TrainingExercise1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Clay\Desktop\TrainingExercise1\TrainingExercise1\obj\x86\Debug\TrainingExercise1.exe
+C:\Users\Clay\Desktop\TrainingExercise1\TrainingExercise1\obj\x86\Debug\TrainingExercise1.pdb
+C:\Users\Clay\Documents\Visual Studio 2010\Projects\TrainingExercise1\TrainingExercise1\TrainingExercise1\obj\x86\Debug\TrainingExercise1.exe
+C:\Users\Clay\Documents\Visual Studio 2010\Projects\TrainingExercise1\TrainingExercise1\TrainingExercise1\obj\x86\Debug\TrainingExercise1.pdb
+C:\Users\Clay\Documents\Visual Studio 2010\Projects\TrainingExercise1\TrainingExercise1\TrainingExercise1\bin\Debug\TrainingExercise1.exe
+C:\Users\Clay\Documents\Visual Studio 2010\Projects\TrainingExercise1\TrainingExercise1\TrainingExercise1\bin\Debug\TrainingExercise1.pdb
+C:\Users\Clay\Documents\Visual Studio 2010\Projects\TrainingExercise1\TrainingExercise1\TrainingExercise1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Clay\Documents\Visual Studio 2010\Projects\TrainingExercise1\TrainingExercise1\TrainingExercise1\obj\x86\Debug\TrainingExercise1.Form1.resources
+C:\Users\Clay\Documents\Visual Studio 2010\Projects\TrainingExercise1\TrainingExercise1\TrainingExercise1\obj\x86\Debug\TrainingExercise1.Properties.Resources.resources
+C:\Users\Clay\Documents\Visual Studio 2010\Projects\TrainingExercise1\TrainingExercise1\TrainingExercise1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Clay\Documents\Visual Studio 2010\Projects\TrainingExercise1\TrainingExercise1\TrainingExercise1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Clay\Documents\Visual Studio 2010\Projects\TrainingExercise1\TrainingExercise1\obj\x86\Debug\TrainingExercise1.exe
+C:\Users\Clay\Documents\Visual Studio 2010\Projects\TrainingExercise1\TrainingExercise1\obj\x86\Debug\TrainingExercise1.pdb
+C:\Users\Clay\Documents\Visual Studio 2010\Projects\TrainingExercise1\TrainingExercise1\bin\Debug\TrainingExercise1.exe
+C:\Users\Clay\Documents\Visual Studio 2010\Projects\TrainingExercise1\TrainingExercise1\bin\Debug\TrainingExercise1.pdb
+C:\Users\Clay\Documents\Visual Studio 2010\Projects\TrainingExercise1\TrainingExercise1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Clay\Documents\Visual Studio 2010\Projects\TrainingExercise1\TrainingExercise1\obj\x86\Debug\TrainingExercise1.Form1.resources
+C:\Users\Clay\Documents\Visual Studio 2010\Projects\TrainingExercise1\TrainingExercise1\obj\x86\Debug\TrainingExercise1.Properties.Resources.resources
+C:\Users\Clay\Documents\Visual Studio 2010\Projects\TrainingExercise1\TrainingExercise1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Clay\Documents\Visual Studio 2010\Projects\TrainingExercise1\TrainingExercise1\obj\x86\Debug\GenerateResource.write.1.tlog

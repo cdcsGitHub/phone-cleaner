@@ -1,0 +1,3 @@
+C:\Users\Clay\Documents\Visual Studio 2010\Projects\TrainingExercise1\TrainingExercise1\Sample.csv
+
+C:\Users\Clay\Documents\Visual Studio 2010\Projects\TrainingExercise1\TrainingExercise1\AlteredSample.csv
